@@ -30,7 +30,7 @@ local.properties
 java/
 org
 gradle
-java
+
 
 # Local configuration file (sdk path, etc)
 local.properties
